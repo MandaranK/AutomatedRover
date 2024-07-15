@@ -1,5 +1,5 @@
 # Automated Rover
-Designed to take solar radiation as a voltage input value through the light sensor.
-Programmed to convert it into a UV index value, to be displayed and updated on an LCD monitor, in addition to informing the user how much skin protection is needed outside.
-The STM32 Microcontroller was programmed in C, using the STM32Cube IDE.
-The outer structure was designed in Autodesk AutoCAD and later 3D printed.
+Designed and programmed to travel along a path from one location to another.
+If the rover drives out of the pathway, it is able to relocate the pathway automatically.
+The outer structure is 3D printed, with Analog Line Sensors, DC Motors, and Arduino.
+Line sensors and motors on the wheels are programmed for automation through the Arduino, in C using the Arduino IDE.
